@@ -1,6 +1,6 @@
 
-[![GooglePlay](https://img.shields.io/badge/-17ACFA?logo=GooglePlay&style=for-the-badge&logoColor=white)](https://velcent-games.blogspot.com/)
-[![Blogger](https://img.shields.io/badge/-orange?logo=Blogger&style=for-the-badge&logoColor=white)](https://velcent-games.blogspot.com/)
+[![GooglePlay](https://img.shields.io/badge/-17ACFA?logo=GooglePlay&style=for-the-badge&logoColor=white)](https://play.google.com/store/apps/developer?id=Velcent+Games)
+[![Blogger](https://img.shields.io/badge/-orange?logo=Blogger&style=for-the-badge&logoColor=white)](https://velcent-games.blogspot.com)
 [![YouTube](https://img.shields.io/badge/-FF0000.svg?logo=YouTube&style=for-the-badge&logoColor=white)](https://www.youtube.com/@VelcentGames)
 [![Tiktok](https://img.shields.io/badge/-000000.svg?logo=Tiktok&style=for-the-badge&logoColor=white)](https://www.tiktok.com/@velcent.games) 
 [![X](https://img.shields.io/badge/-%23000000.svg?logo=X&style=for-the-badge&logoColor=white)](https://x.com/VelcentGames)
